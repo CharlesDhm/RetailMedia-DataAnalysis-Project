@@ -1,0 +1,301 @@
+id_commande,date_commande,produit,categorie,quantite,prix_unitaire,client_id,periode
+1000,2024-12-22,Stylo 4 couleurs,Papeterie,3,21.44,1032,après
+1001,2024-11-15,Mug Licorne,Cadeau,4,17.72,1021,avant
+1002,2025-01-11,Mug Licorne,Cadeau,5,17.17,1007,après
+1003,2024-12-31,Coussin Lama,Maison,3,15.86,1020,après
+1004,2024-11-21,Stylo 4 couleurs,Papeterie,1,19.42,1032,avant
+1005,2025-01-22,Stylo 4 couleurs,Papeterie,5,10.75,1047,après
+1006,2025-01-26,Poster Chien,Poster,3,19.3,1048,après
+1007,2025-01-14,Bougie Vanille,Maison,1,29.86,1029,après
+1008,2025-01-14,Stylo 4 couleurs,Papeterie,5,11.99,1005,après
+1009,2025-01-27,Lampe LED,Maison,3,23.69,1036,après
+1010,2024-11-24,Tasse Noël,Cadeau,5,15.7,1030,avant
+1011,2024-11-03,Poster Chien,Poster,3,29.51,1020,avant
+1012,2024-11-22,Poster Chat,Poster,1,12.92,1017,avant
+1013,2024-12-23,Poster Chien,Poster,1,14.87,1002,après
+1014,2024-11-02,Carnet Design,Papeterie,2,20.38,1021,avant
+1015,2025-01-27,Lampe LED,Maison,2,11.35,1041,après
+1016,2024-11-30,Mug Licorne,Cadeau,2,13.06,1039,avant
+1017,2024-12-08,Poster Chien,Poster,1,8.42,1047,pendant
+1018,2024-11-02,Tasse Noël,Cadeau,5,12.41,1025,avant
+1019,2025-01-03,Poster Chien,Poster,3,11.41,1023,après
+1020,2024-12-30,Mug Licorne,Cadeau,5,7.04,1006,après
+1021,2024-11-21,Carnet Design,Papeterie,1,20.7,1019,avant
+1022,2024-12-03,Poster Chat,Poster,1,6.77,1045,pendant
+1023,2025-01-15,Carnet Design,Papeterie,4,27.17,1014,après
+1024,2024-12-28,Mug Licorne,Cadeau,4,19.47,1031,après
+1025,2024-11-22,Carnet Design,Papeterie,3,16.64,1021,avant
+1026,2025-01-28,Lampe LED,Maison,2,26.51,1048,après
+1027,2024-12-19,Carnet Design,Papeterie,4,5.97,1014,après
+1028,2024-12-29,Poster Chien,Poster,3,8.18,1032,après
+1029,2024-12-12,Poster Chien,Poster,5,11.79,1043,pendant
+1030,2024-12-30,Tasse Noël,Cadeau,5,16.43,1005,après
+1031,2025-01-19,Stylo 4 couleurs,Papeterie,5,9.86,1029,après
+1032,2024-11-15,Carnet Design,Papeterie,3,20.94,1015,avant
+1033,2025-01-01,Poster Chien,Poster,5,29.24,1041,après
+1034,2025-01-01,Bougie Vanille,Maison,3,24.88,1018,après
+1035,2024-12-17,Poster Chien,Poster,4,23.6,1025,après
+1036,2025-01-01,Tasse Noël,Cadeau,5,9.61,1022,après
+1037,2024-12-21,Coussin Lama,Maison,1,22.21,1000,après
+1038,2024-12-25,Poster Chien,Poster,2,27.88,1046,après
+1039,2025-01-03,Lampe LED,Maison,2,10.99,1047,après
+1040,2024-11-03,Bougie Vanille,Maison,1,21.5,1000,avant
+1041,2024-12-21,Poster Chat,Poster,5,23.45,1004,après
+1042,2024-11-07,Bougie Vanille,Maison,5,15.49,1011,avant
+1043,2024-11-21,Carnet Design,Papeterie,2,13.9,1036,avant
+1044,2025-01-12,Poster Chien,Poster,1,13.55,1027,après
+1045,2024-12-09,Bougie Vanille,Maison,5,7.35,1029,pendant
+1046,2024-11-18,Coussin Lama,Maison,4,9.38,1015,avant
+1047,2024-11-04,Tasse Noël,Cadeau,2,24.08,1020,avant
+1048,2025-01-28,Lampe LED,Maison,4,9.33,1029,après
+1049,2024-12-30,Mug Licorne,Cadeau,5,14.96,1009,après
+1050,2024-11-14,Mug Licorne,Cadeau,5,27.17,1030,avant
+1051,2024-11-09,Coussin Lama,Maison,2,20.65,1031,avant
+1052,2025-01-29,Carnet Design,Papeterie,1,18.48,1044,après
+1053,2024-12-23,Mug Licorne,Cadeau,4,20.4,1015,après
+1054,2024-11-02,Coussin Lama,Maison,2,5.66,1031,avant
+1055,2025-01-23,Carnet Design,Papeterie,3,25.02,1011,après
+1056,2024-12-30,Bougie Vanille,Maison,2,19.33,1032,après
+1057,2025-01-10,Coussin Lama,Maison,1,25.28,1042,après
+1058,2024-12-14,Poster Chat,Poster,5,20.65,1000,pendant
+1059,2024-11-08,Tasse Noël,Cadeau,1,21.29,1042,avant
+1060,2024-12-17,Mug Licorne,Cadeau,4,11.85,1011,après
+1061,2024-12-05,Lampe LED,Maison,2,5.97,1049,pendant
+1062,2025-01-17,Stylo 4 couleurs,Papeterie,3,13.41,1025,après
+1063,2025-01-20,Bougie Vanille,Maison,5,26.12,1025,après
+1064,2024-12-06,Tasse Noël,Cadeau,2,11.52,1006,pendant
+1065,2024-12-20,Carnet Design,Papeterie,4,22.32,1049,après
+1066,2024-11-04,Carnet Design,Papeterie,5,28.42,1035,avant
+1067,2024-11-02,Stylo 4 couleurs,Papeterie,1,25.09,1035,avant
+1068,2024-11-06,Tasse Noël,Cadeau,2,15.59,1023,avant
+1069,2024-12-24,Poster Chien,Poster,3,29.76,1047,après
+1070,2024-11-04,Mug Licorne,Cadeau,4,14.3,1038,avant
+1071,2024-12-24,Carnet Design,Papeterie,5,10.96,1012,après
+1072,2025-01-02,Tasse Noël,Cadeau,1,10.96,1029,après
+1073,2024-11-18,Poster Chien,Poster,1,18.36,1019,avant
+1074,2025-01-29,Tasse Noël,Cadeau,1,13.0,1018,après
+1075,2024-12-14,Lampe LED,Maison,1,6.34,1040,pendant
+1076,2024-12-04,Bougie Vanille,Maison,3,7.28,1006,pendant
+1077,2025-01-13,Coussin Lama,Maison,4,28.75,1018,après
+1078,2025-01-01,Coussin Lama,Maison,2,20.8,1004,après
+1079,2024-11-14,Carnet Design,Papeterie,3,20.06,1020,avant
+1080,2024-12-18,Bougie Vanille,Maison,4,28.65,1015,après
+1081,2024-11-15,Poster Chat,Poster,1,7.84,1041,avant
+1082,2025-01-11,Carnet Design,Papeterie,2,6.44,1030,après
+1083,2025-01-17,Poster Chat,Poster,2,16.04,1022,après
+1084,2025-01-26,Poster Chien,Poster,5,13.77,1017,après
+1085,2025-01-01,Bougie Vanille,Maison,4,22.2,1043,après
+1086,2024-12-10,Lampe LED,Maison,1,7.53,1006,pendant
+1087,2025-01-24,Lampe LED,Maison,5,10.56,1008,après
+1088,2025-01-19,Coussin Lama,Maison,2,27.3,1001,après
+1089,2025-01-21,Poster Chat,Poster,5,17.83,1037,après
+1090,2024-12-23,Poster Chien,Poster,3,19.53,1044,après
+1091,2024-11-24,Poster Chat,Poster,1,27.01,1016,avant
+1092,2024-11-26,Poster Chien,Poster,1,19.8,1035,avant
+1093,2025-01-28,Coussin Lama,Maison,4,7.09,1043,après
+1094,2024-12-30,Lampe LED,Maison,3,11.22,1018,après
+1095,2024-12-11,Coussin Lama,Maison,3,11.34,1049,pendant
+1096,2024-11-29,Poster Chien,Poster,4,19.29,1019,avant
+1097,2024-11-15,Tasse Noël,Cadeau,4,24.18,1040,avant
+1098,2024-12-15,Tasse Noël,Cadeau,1,22.03,1027,pendant
+1099,2025-01-04,Carnet Design,Papeterie,1,14.37,1048,après
+1100,2025-01-28,Poster Chien,Poster,1,26.71,1037,après
+1101,2025-01-10,Mug Licorne,Cadeau,5,29.08,1043,après
+1102,2024-11-09,Coussin Lama,Maison,5,29.25,1046,avant
+1103,2025-01-27,Coussin Lama,Maison,5,6.09,1020,après
+1104,2024-11-01,Poster Chien,Poster,3,27.98,1035,avant
+1105,2024-11-08,Lampe LED,Maison,3,22.39,1017,avant
+1106,2025-01-27,Stylo 4 couleurs,Papeterie,1,10.42,1014,après
+1107,2025-01-02,Tasse Noël,Cadeau,1,20.69,1002,après
+1108,2024-11-11,Stylo 4 couleurs,Papeterie,1,27.88,1009,avant
+1109,2025-01-20,Poster Chien,Poster,4,7.67,1007,après
+1110,2024-11-08,Poster Chien,Poster,2,9.7,1025,avant
+1111,2024-12-05,Carnet Design,Papeterie,2,10.73,1027,pendant
+1112,2024-12-05,Stylo 4 couleurs,Papeterie,4,14.01,1035,pendant
+1113,2024-12-03,Tasse Noël,Cadeau,3,22.45,1016,pendant
+1114,2024-11-05,Mug Licorne,Cadeau,1,12.74,1019,avant
+1115,2024-12-11,Bougie Vanille,Maison,5,22.12,1028,pendant
+1116,2024-11-28,Bougie Vanille,Maison,5,27.77,1005,avant
+1117,2024-11-07,Poster Chien,Poster,2,15.42,1004,avant
+1118,2025-01-12,Carnet Design,Papeterie,1,15.46,1029,après
+1119,2025-01-11,Bougie Vanille,Maison,2,18.79,1004,après
+1120,2024-11-12,Coussin Lama,Maison,1,24.44,1017,avant
+1121,2024-12-04,Tasse Noël,Cadeau,1,14.42,1025,pendant
+1122,2024-12-03,Carnet Design,Papeterie,1,29.25,1026,pendant
+1123,2024-12-18,Stylo 4 couleurs,Papeterie,1,25.96,1033,après
+1124,2024-11-23,Tasse Noël,Cadeau,1,15.37,1000,avant
+1125,2025-01-01,Poster Chat,Poster,5,6.41,1005,après
+1126,2025-01-27,Coussin Lama,Maison,4,25.32,1030,après
+1127,2024-12-07,Bougie Vanille,Maison,5,29.92,1022,pendant
+1128,2024-12-14,Bougie Vanille,Maison,5,23.15,1009,pendant
+1129,2025-01-25,Mug Licorne,Cadeau,2,14.45,1020,après
+1130,2024-12-05,Mug Licorne,Cadeau,1,8.23,1044,pendant
+1131,2025-01-04,Bougie Vanille,Maison,5,10.18,1000,après
+1132,2024-12-17,Carnet Design,Papeterie,1,23.92,1033,après
+1133,2025-01-17,Tasse Noël,Cadeau,4,11.72,1038,après
+1134,2024-11-03,Lampe LED,Maison,2,17.45,1002,avant
+1135,2024-11-01,Tasse Noël,Cadeau,3,12.69,1000,avant
+1136,2024-11-05,Bougie Vanille,Maison,4,19.02,1029,avant
+1137,2025-01-29,Poster Chat,Poster,3,15.09,1047,après
+1138,2024-11-14,Mug Licorne,Cadeau,5,20.51,1001,avant
+1139,2024-11-27,Poster Chien,Poster,3,10.32,1037,avant
+1140,2024-11-09,Coussin Lama,Maison,4,29.51,1049,avant
+1141,2025-01-18,Tasse Noël,Cadeau,2,20.92,1014,après
+1142,2024-11-15,Mug Licorne,Cadeau,3,7.28,1033,avant
+1143,2025-01-29,Carnet Design,Papeterie,4,18.69,1032,après
+1144,2024-12-12,Stylo 4 couleurs,Papeterie,4,12.45,1041,pendant
+1145,2025-01-16,Mug Licorne,Cadeau,3,22.44,1028,après
+1146,2024-12-21,Bougie Vanille,Maison,4,16.48,1016,après
+1147,2025-01-02,Bougie Vanille,Maison,2,24.22,1019,après
+1148,2024-12-22,Bougie Vanille,Maison,5,29.5,1001,après
+1149,2024-11-04,Carnet Design,Papeterie,5,10.23,1042,avant
+1150,2024-11-23,Tasse Noël,Cadeau,3,6.9,1022,avant
+1151,2024-11-15,Mug Licorne,Cadeau,3,8.47,1007,avant
+1152,2024-12-13,Poster Chien,Poster,4,9.55,1024,pendant
+1153,2024-11-29,Coussin Lama,Maison,3,26.86,1026,avant
+1154,2024-12-06,Carnet Design,Papeterie,5,29.33,1018,pendant
+1155,2024-11-13,Poster Chat,Poster,5,9.22,1027,avant
+1156,2024-12-02,Mug Licorne,Cadeau,2,9.43,1020,pendant
+1157,2025-01-10,Poster Chat,Poster,1,18.36,1011,après
+1158,2024-12-29,Mug Licorne,Cadeau,2,27.36,1048,après
+1159,2025-01-25,Poster Chien,Poster,2,22.26,1008,après
+1160,2024-11-28,Poster Chat,Poster,2,24.99,1021,avant
+1161,2025-01-05,Bougie Vanille,Maison,3,28.02,1016,après
+1162,2024-12-12,Stylo 4 couleurs,Papeterie,2,26.71,1007,pendant
+1163,2024-12-15,Carnet Design,Papeterie,1,19.93,1014,pendant
+1164,2025-01-01,Tasse Noël,Cadeau,2,24.0,1013,après
+1165,2024-12-27,Poster Chat,Poster,2,23.69,1013,après
+1166,2024-11-06,Mug Licorne,Cadeau,3,11.31,1006,avant
+1167,2024-11-28,Bougie Vanille,Maison,3,27.38,1045,avant
+1168,2024-11-28,Mug Licorne,Cadeau,3,18.3,1044,avant
+1169,2024-12-14,Coussin Lama,Maison,2,16.19,1034,pendant
+1170,2025-01-23,Lampe LED,Maison,3,11.06,1024,après
+1171,2024-11-30,Bougie Vanille,Maison,5,9.56,1038,avant
+1172,2025-01-01,Coussin Lama,Maison,1,26.02,1021,après
+1173,2025-01-14,Poster Chien,Poster,2,18.38,1024,après
+1174,2025-01-28,Coussin Lama,Maison,1,13.57,1024,après
+1175,2025-01-01,Stylo 4 couleurs,Papeterie,4,13.88,1040,après
+1176,2024-11-01,Poster Chat,Poster,5,16.99,1035,avant
+1177,2024-11-27,Carnet Design,Papeterie,2,18.94,1039,avant
+1178,2025-01-01,Poster Chat,Poster,1,19.11,1041,après
+1179,2025-01-16,Tasse Noël,Cadeau,1,13.44,1025,après
+1180,2024-11-03,Lampe LED,Maison,2,11.11,1044,avant
+1181,2025-01-09,Poster Chat,Poster,5,28.34,1021,après
+1182,2025-01-11,Lampe LED,Maison,5,8.82,1047,après
+1183,2024-11-27,Lampe LED,Maison,4,26.27,1029,avant
+1184,2024-11-09,Carnet Design,Papeterie,1,7.01,1030,avant
+1185,2025-01-01,Poster Chat,Poster,5,29.56,1030,après
+1186,2024-12-07,Lampe LED,Maison,2,19.4,1010,pendant
+1187,2024-12-21,Mug Licorne,Cadeau,4,5.13,1048,après
+1188,2024-12-14,Coussin Lama,Maison,3,25.52,1001,pendant
+1189,2024-11-24,Coussin Lama,Maison,3,19.29,1044,avant
+1190,2025-01-18,Coussin Lama,Maison,4,10.13,1025,après
+1191,2024-12-29,Coussin Lama,Maison,4,15.64,1032,après
+1192,2024-12-02,Carnet Design,Papeterie,4,11.06,1046,pendant
+1193,2025-01-27,Stylo 4 couleurs,Papeterie,1,20.27,1037,après
+1194,2024-12-22,Tasse Noël,Cadeau,5,17.65,1035,après
+1195,2025-01-01,Coussin Lama,Maison,5,18.31,1032,après
+1196,2024-12-28,Lampe LED,Maison,2,16.36,1004,après
+1197,2024-12-22,Bougie Vanille,Maison,2,29.75,1012,après
+1198,2024-11-12,Tasse Noël,Cadeau,2,7.2,1036,avant
+1199,2024-12-09,Bougie Vanille,Maison,1,24.01,1010,pendant
+1200,2024-11-02,Stylo 4 couleurs,Papeterie,3,13.72,1048,avant
+1201,2024-11-03,Stylo 4 couleurs,Papeterie,5,25.77,1043,avant
+1202,2024-12-26,Coussin Lama,Maison,2,8.11,1010,après
+1203,2025-01-20,Carnet Design,Papeterie,1,10.13,1034,après
+1204,2024-12-29,Tasse Noël,Cadeau,3,28.16,1021,après
+1205,2024-11-02,Stylo 4 couleurs,Papeterie,4,26.05,1007,avant
+1206,2024-11-02,Coussin Lama,Maison,3,24.88,1013,avant
+1207,2024-12-24,Poster Chat,Poster,4,9.09,1020,après
+1208,2025-01-26,Lampe LED,Maison,5,25.36,1013,après
+1209,2024-11-01,Coussin Lama,Maison,2,27.7,1024,avant
+1210,2024-11-19,Lampe LED,Maison,5,19.71,1017,avant
+1211,2024-11-02,Stylo 4 couleurs,Papeterie,3,20.6,1032,avant
+1212,2024-12-23,Tasse Noël,Cadeau,1,10.81,1032,après
+1213,2024-12-14,Stylo 4 couleurs,Papeterie,2,18.59,1039,pendant
+1214,2025-01-29,Lampe LED,Maison,3,18.57,1005,après
+1215,2024-12-02,Poster Chien,Poster,3,20.69,1007,pendant
+1216,2025-01-09,Bougie Vanille,Maison,2,8.48,1014,après
+1217,2024-12-02,Coussin Lama,Maison,5,17.39,1029,pendant
+1218,2025-01-07,Mug Licorne,Cadeau,3,24.71,1037,après
+1219,2024-12-25,Carnet Design,Papeterie,1,12.79,1036,après
+1220,2025-01-14,Bougie Vanille,Maison,3,23.6,1003,après
+1221,2024-12-26,Bougie Vanille,Maison,2,24.06,1009,après
+1222,2024-11-17,Poster Chat,Poster,1,7.57,1012,avant
+1223,2024-12-08,Mug Licorne,Cadeau,4,16.43,1014,pendant
+1224,2024-11-24,Lampe LED,Maison,5,18.5,1028,avant
+1225,2025-01-08,Lampe LED,Maison,4,23.06,1001,après
+1226,2025-01-09,Poster Chien,Poster,3,21.03,1035,après
+1227,2025-01-25,Stylo 4 couleurs,Papeterie,4,22.9,1026,après
+1228,2024-11-11,Coussin Lama,Maison,5,25.67,1009,avant
+1229,2024-11-16,Coussin Lama,Maison,2,28.68,1011,avant
+1230,2025-01-12,Carnet Design,Papeterie,2,19.66,1017,après
+1231,2024-12-29,Coussin Lama,Maison,1,11.4,1039,après
+1232,2025-01-09,Carnet Design,Papeterie,4,19.82,1043,après
+1233,2025-01-19,Carnet Design,Papeterie,4,27.97,1004,après
+1234,2024-11-03,Tasse Noël,Cadeau,5,22.68,1041,avant
+1235,2024-11-20,Poster Chat,Poster,1,19.41,1008,avant
+1236,2024-12-29,Carnet Design,Papeterie,3,23.41,1039,après
+1237,2024-12-06,Poster Chat,Poster,1,28.14,1022,pendant
+1238,2024-11-19,Mug Licorne,Cadeau,1,7.83,1020,avant
+1239,2025-01-29,Carnet Design,Papeterie,2,25.97,1022,après
+1240,2025-01-06,Mug Licorne,Cadeau,1,13.3,1039,après
+1241,2024-11-19,Coussin Lama,Maison,5,14.48,1008,avant
+1242,2024-11-20,Mug Licorne,Cadeau,2,25.07,1025,avant
+1243,2025-01-10,Carnet Design,Papeterie,1,7.86,1024,après
+1244,2024-12-22,Lampe LED,Maison,2,28.0,1001,après
+1245,2024-12-03,Stylo 4 couleurs,Papeterie,2,17.02,1026,pendant
+1246,2024-12-10,Poster Chien,Poster,1,19.68,1043,pendant
+1247,2024-12-09,Stylo 4 couleurs,Papeterie,3,8.52,1023,pendant
+1248,2025-01-21,Mug Licorne,Cadeau,1,17.46,1005,après
+1249,2024-11-01,Poster Chat,Poster,5,27.87,1048,avant
+1250,2024-11-11,Tasse Noël,Cadeau,5,19.51,1021,avant
+1251,2024-12-27,Carnet Design,Papeterie,2,5.33,1020,après
+1252,2025-01-28,Carnet Design,Papeterie,1,9.45,1019,après
+1253,2024-12-20,Tasse Noël,Cadeau,1,8.72,1021,après
+1254,2024-11-23,Coussin Lama,Maison,4,18.38,1039,avant
+1255,2024-12-01,Coussin Lama,Maison,1,12.49,1031,pendant
+1256,2024-12-12,Bougie Vanille,Maison,5,14.93,1018,pendant
+1257,2024-11-07,Carnet Design,Papeterie,5,20.62,1028,avant
+1258,2024-11-16,Coussin Lama,Maison,3,6.64,1013,avant
+1259,2025-01-29,Tasse Noël,Cadeau,3,16.33,1001,après
+1260,2024-12-30,Carnet Design,Papeterie,4,17.03,1029,après
+1261,2024-11-02,Mug Licorne,Cadeau,3,8.88,1000,avant
+1262,2024-11-01,Poster Chien,Poster,5,6.89,1002,avant
+1263,2024-12-18,Mug Licorne,Cadeau,2,11.77,1045,après
+1264,2024-11-12,Mug Licorne,Cadeau,2,15.22,1022,avant
+1265,2025-01-08,Mug Licorne,Cadeau,4,25.99,1006,après
+1266,2024-12-07,Mug Licorne,Cadeau,5,15.2,1002,pendant
+1267,2024-12-02,Carnet Design,Papeterie,3,17.64,1007,pendant
+1268,2024-11-09,Carnet Design,Papeterie,1,25.0,1002,avant
+1269,2024-11-19,Lampe LED,Maison,3,21.32,1046,avant
+1270,2024-12-18,Poster Chien,Poster,2,25.13,1023,après
+1271,2025-01-19,Stylo 4 couleurs,Papeterie,3,29.07,1036,après
+1272,2024-11-03,Poster Chien,Poster,5,15.16,1047,avant
+1273,2024-11-20,Stylo 4 couleurs,Papeterie,2,5.33,1006,avant
+1274,2024-11-24,Mug Licorne,Cadeau,1,10.2,1018,avant
+1275,2024-12-24,Stylo 4 couleurs,Papeterie,5,26.91,1028,après
+1276,2024-12-03,Coussin Lama,Maison,4,22.6,1000,pendant
+1277,2024-11-24,Poster Chien,Poster,5,13.55,1041,avant
+1278,2025-01-14,Lampe LED,Maison,2,14.08,1011,après
+1279,2025-01-11,Poster Chien,Poster,4,20.6,1037,après
+1280,2024-12-06,Carnet Design,Papeterie,1,15.9,1043,pendant
+1281,2024-12-08,Carnet Design,Papeterie,3,28.71,1021,pendant
+1282,2025-01-23,Tasse Noël,Cadeau,4,8.5,1009,après
+1283,2025-01-28,Carnet Design,Papeterie,3,27.36,1031,après
+1284,2024-11-25,Stylo 4 couleurs,Papeterie,1,17.12,1016,avant
+1285,2024-11-18,Mug Licorne,Cadeau,1,18.54,1044,avant
+1286,2025-01-21,Stylo 4 couleurs,Papeterie,1,11.45,1021,après
+1287,2025-01-05,Poster Chien,Poster,3,15.54,1025,après
+1288,2024-12-24,Bougie Vanille,Maison,2,27.51,1033,après
+1289,2024-12-05,Carnet Design,Papeterie,5,5.46,1017,pendant
+1290,2025-01-19,Poster Chat,Poster,5,25.38,1040,après
+1291,2024-12-31,Mug Licorne,Cadeau,2,18.85,1024,après
+1292,2024-12-11,Coussin Lama,Maison,2,23.01,1041,pendant
+1293,2024-12-03,Bougie Vanille,Maison,5,11.59,1030,pendant
+1294,2025-01-07,Tasse Noël,Cadeau,3,19.94,1011,après
+1295,2024-12-03,Coussin Lama,Maison,5,21.63,1006,pendant
+1296,2024-11-14,Carnet Design,Papeterie,2,27.86,1025,avant
+1297,2024-11-21,Carnet Design,Papeterie,5,14.58,1045,avant
+1298,2024-12-18,Carnet Design,Papeterie,2,9.16,1042,après
+1299,2024-11-20,Lampe LED,Maison,1,7.07,1035,avant
